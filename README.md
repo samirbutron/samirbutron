@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Coursera-Google IT, React, NodeJs, JavaScript**
 
-- 👨‍💻 All of my projects are available at [sbutron.dev](sbutron.dev)
+- 👨‍💻 All of my projects are available at [samirbutron.dev](sbutron.dev)
 
-- 📝 I regularly write articles on [sbutron.dev/blog](sbutron.dev/blog)
+- 📝 I regularly write articles on [samirbutron.dev/blog](sbutron.dev/blog)
 
 - 💬 Ask me about **C, Microprocessors, Microcontrolers, Java, Sensors, Actuators, Networks ,MySQL**
 
